@@ -20,11 +20,3 @@ MoodMate is an AI-powered journaling app designed to help users track their emot
 2. Mood trend visualizations with interactive charts.
 3. Personalized suggestions based on mood patterns.
 4. Secure storage of journal entries.
-
----
-
-## 👥 **Team Members**
-- **[Your Name]**: Backend Developer
-- **[Your Name]**: Frontend Developer
-- **[Your Name]**: AI Specialist
-- **[Your Name]**: UI/UX Designer
