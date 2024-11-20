@@ -23,23 +23,6 @@ MoodMate is an AI-powered journaling app designed to help users track their emot
 
 ---
 
-## 📂 **Project Structure**
-/MoodMate
-    /frontend
-        index.html           # Frontend interface
-        styles.css           # Custom styles
-        app.js               # Frontend logic
-    /backend
-        app.py               # Flask server
-        model/               # Hugging Face RoBERTa model
-    /data
-        database.db          # SQLite database for storing entries
-    /static
-        charts.js            # Visualization scripts
-    README.md                # Project documentation
-
----
-
 ## 👥 **Team Members**
 - **[Your Name]**: Backend Developer
 - **[Your Name]**: Frontend Developer
