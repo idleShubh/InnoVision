@@ -1,7 +1,7 @@
-# **MoodMate: AI-Powered Sentiment Mood Journaling**
+# **FeelMitra: AI-Powered Sentiment Mood Journaling**
 
 ## 📝 **Project Overview**  
-MoodMate is an AI-powered journaling app designed to help users track their emotions, visualize mood trends, and improve mental well-being through personalized suggestions. It combines a user-friendly interface with the power of AI for sentiment analysis and data visualization.
+FeelMitra is an AI-powered journaling app designed to help users track their emotions, visualize mood trends, and improve mental well-being through personalized suggestions. It combines a user-friendly interface with the power of AI for sentiment analysis and data visualization.
 
 ---
 
